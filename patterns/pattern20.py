@@ -25,4 +25,5 @@ def pattern20(n):
             print("*", end=" ")
         print()
 
-pattern20(5)
+
+pattern20(8)
