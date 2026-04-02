@@ -1,3 +1,14 @@
+'''
+*                 * 
+* *             * * 
+* * *         * * * 
+* * * *     * * * * 
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 * 
+'''
 def pattern20(n):
     for i in range(1,n+1):
         # star
@@ -26,4 +37,4 @@ def pattern20(n):
         print()
 
 
-pattern20(8)
+pattern20(5)
