@@ -16,3 +16,5 @@ for i in range(1,int(sqrt(a) + 1)):
             divisors.append(a//i)
 
 print(sorted(divisors))
+
+

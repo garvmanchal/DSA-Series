@@ -14,4 +14,4 @@ print(rev)
 if dup == rev :
     print("Its an palindrome number")
 else :
-    print("False")
+    print(False)
