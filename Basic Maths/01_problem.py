@@ -29,6 +29,6 @@ from math import log10
 
 n = int(input("enter the value: "))
 
-count = int(log10(n)+1)
+count = int(log10(n)+ 1 )
 print(count)
 
