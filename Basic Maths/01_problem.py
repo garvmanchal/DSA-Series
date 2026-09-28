@@ -1,6 +1,7 @@
 
 # Extraction of numbers 
 # change made in this file 
+# changes 2
 
 
 n = int(input("enter the number: "))
